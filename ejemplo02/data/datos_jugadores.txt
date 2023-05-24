@@ -1,0 +1,61 @@
+Barcelona;Arquero;1;Javier Burrai
+Barcelona;Arquero;22;Álvaro Preciado
+Barcelona;Arquero;12;Víctor Mendoza
+Barcelona;Arquero;39;Wilson Ramirez
+Barcelona;Defensor;2;Mario Pineida
+Barcelona;Defensor;25;Luis Valdez
+Barcelona;Defensor;3;William Riveros
+Barcelona;Defensor;4;Bryan Caicedo
+Barcelona;Defensor;6;Leonel Quiñonez
+Barcelona;Defensor;14;Darío Aimar
+Barcelona;Mediocampista;5;Gabriel Marques
+Barcelona;Mediocampista;7;Michael Hoyos
+Barcelona;Mediocampista;8;Leandro Martínez
+Barcelona;Mediocampista;10;Damián Díaz
+Barcelona;Mediocampista;13;Gabriel Cortez
+Barcelona;Mediocampista;17;Sergio López
+Barcelona;Mediocampista;18;Matías Oyola
+Barcelona;Mediocampista;19;Nixon Molina
+Barcelona;Delantero;9;Gonzalo Mastriani
+Barcelona;Delantero;11;Carlos Garcés
+Barcelona;Delantero;15;Jonathan Perlaza
+Independiente del Valle;Arquero;1;Wellington Ramírez
+Independiente del Valle;Arquero;30;Jorge Pinos
+Independiente del Valle;Arquero;12;Joan López
+Independiente del Valle;Defensor;2;Luis Segovia
+Independiente del Valle;Defensor;3;William Pacho
+Independiente del Valle;Defensor;5;Richard Schunke
+Independiente del Valle;Defensor;6;Jhoanner Chavez
+Independiente del Valle;Mediocampista;4;Anthony Landázuri
+Independiente del Valle;Mediocampista;7;Jhon Sánchez
+Independiente del Valle;Mediocampista;8;Lorenzo Faravelli
+Independiente del Valle;Mediocampista;10;Efrén Mera
+Independiente del Valle;Mediocampista;11;Jacob Murillo
+Independiente del Valle;Mediocampista;14;Darlin Leiton
+Independiente del Valle;Mediocampista;16;Cristian Pellerano
+Independiente del Valle;Mediocampista;18;Mateo Ortíz
+Independiente del Valle;Mediocampista;19;Bryan García
+Independiente del Valle;Mediocampista;20;Christian Ortíz
+Independiente del Valle;Mediocampista;21;Nicolás Previtali
+Independiente del Valle;Delantero;9;Brian Montenegro
+Independiente del Valle;Delantero;17;Stiven Plaza
+Independiente del Valle;Delantero;24;Joffre Escobar
+Mushuc Runa;Arquero;12;Christian Tapia
+Mushuc Runa;Arquero;92;Wilman Pabón
+Mushuc Runa;Defensor;2;José Mendoza
+Mushuc Runa;Defensor;3;César Obando
+Mushuc Runa;Defensor;4;Ricardo Ade
+Mushuc Runa;Defensor;5;Rody Zambrano
+Mushuc Runa;Defensor;7;Bagner Delgado
+Mushuc Runa;Mediocampista;6;Juan Nazareno
+Mushuc Runa;Mediocampista;8;Jacobo Kouffaty
+Mushuc Runa;Mediocampista;10;Carlos Feraud
+Mushuc Runa;Mediocampista;11;Cristian Palomeque
+Mushuc Runa;Mediocampista;14;Gonzalo Jara
+Mushuc Runa;Mediocampista;15;Marco Mosquera
+Mushuc Runa;Mediocampista;16;Gregoris Ortíz
+Mushuc Runa;Mediocampista;17;William Ocles
+Mushuc Runa;Mediocampista;19;Jhon Carabalí
+Mushuc Runa;Delantero;32;Jonatan Bauman
+Mushuc Runa;Delantero;33;Esteban de la Cruz
+Mushuc Runa;Delantero;70;Miller Castillo
